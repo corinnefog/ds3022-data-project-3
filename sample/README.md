@@ -19,6 +19,8 @@ Working with this API, I had to familiarize myself with how the data was set up 
 
 Offer a brief analysis of the data with your findings. Keep it to one brief, clear, and meaningful paragraph.
 
+My plots are showing me that on average, the amount of rest days a team has does not significantly impact the point they score in a game or their win rate. The points scored stays consistent at just over 100 and the win rate stays steady between 0.4 and 0.6. However, the plot comparing rest days to average plus minus shows a different trend. Average plus minus is at -0.9 with 1 rest day yet improves to around 0.2 with 3 or 4 rest days. The negative plus-minus stat means that after one rest day, teams are usually outscored by their opponent, but with more rest days, they are outscoring the opponent. This suggests that more than one rest day is most beneficial to teams as it is more likely they will outscore opponents and therefore win the game. This plot showed a drop off after 5 rest days which could also suggest too much time without a game negtauvely effects teams, maybe because a loss of momentum or the feeling of being in a high-stakes scenario.
+
 
 ## Plot / Visualization
 
