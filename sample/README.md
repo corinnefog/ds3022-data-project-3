@@ -26,6 +26,8 @@ My plots are showing me that on average, the amount of rest days a team has does
 
 Include at least one compelling plot or visualization of your work. Add images in your subdirectory and then display them using markdown in your README.md file.
 
+![Rest Days Vs. Plus-Minus](~/Downloads/DS3022/ds3022-project3/rest_vs_plus_minus.png)
+
 ## GitHub Repository
 
 https://github.com/corinnefog/ds3022-project3/tree/main
